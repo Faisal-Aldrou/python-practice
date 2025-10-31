@@ -1,1 +1,1 @@
-# python-practice
+Random python projects for practice
